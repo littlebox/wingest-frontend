@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/littlebox/wingest-frontend",
   "authors": [
-    "lucianoar <luciano@littlebox.com.ar>"
+    "lucianoar <luciano@littlebox.com.ar>",
     "ignacioalv <juani@littlebox.com.ar>"
   ],
   "description": "Frontend - Wingest",
