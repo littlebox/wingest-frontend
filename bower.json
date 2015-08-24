@@ -1,0 +1,24 @@
+{
+  "name": "wingest-frontend",
+  "version": "0.0.1",
+  "homepage": "https://github.com/littlebox/wingest-frontend",
+  "authors": [
+    "lucianoar <luciano@littlebox.com.ar>"
+  ],
+  "description": "Frontend - Wingest",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.13.3",
+    "angular": "~1.4.4",
+    "jquery": "~2.1.4",
+    "bootstrap-sass": "~3.3.5"
+  }
+}
